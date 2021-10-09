@@ -1,0 +1,7 @@
+﻿  Account.cpp
+  TrustAccount.cpp
+C:\Users\Admin\source\repos\asgn3\asgn3\TrustAccount.h(5,27): warning C4584: TrustAccount: базовый класс "I_printable" уже является базовым классом для "SavingAccount"
+C:\Users\Admin\source\repos\asgn3\asgn3\I_printable.h(2): message : см. объявление "I_printable"
+C:\Users\Admin\source\repos\asgn3\asgn3\SavingAccount.h(5): message : см. объявление "SavingAccount"
+  Создание кода...
+  asgn3.vcxproj -> C:\Users\Admin\source\repos\asgn3\x64\Debug\asgn3.exe
